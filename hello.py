@@ -1,2 +1,4 @@
 # hello.py
-print("Hello, World!")
+hello = "Hello, World!"
+for i in hello:
+	print(i)
